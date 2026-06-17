@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Saif 👋</h1>
 
-<p align="center">
-  Flutter learner · improving every day
-</p>
-
 ---
 
 ## About Me
 
-I'm currently learning Flutter and working on building my skills as a mobile app developer.  
-I practice every day to get better at it.
+Hello, I am Saif, an app developer using Flutter. I evolve every day to reach the best version of myself.
 
 ---
 
