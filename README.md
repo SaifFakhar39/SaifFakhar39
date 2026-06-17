@@ -1,21 +1,18 @@
-# 🌌 Welcome to My Space
+<h1 align="center">Hi, I'm Saif 👋</h1>
 
-Hello, I am Saif, an app developer using Flutter. I evolve every day to reach the best version of myself.
-
----
-
-### 🚀 About Me
-* 📱 **Mobile Application Developer** specializing in building high-performance, cross-platform applications using the **Flutter** framework.
-* ⚡ **Core Focus:** Writing clean, scalable architecture, optimizing UI/UX performance, and implementing robust state management.
-* 🛠️ **Approach:** Focused on continuous technical growth, micro-optimizations, and delivering efficient, data-driven mobile solutions.
+<p align="center">
+  Flutter learner · improving every day
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Frameworks:** Dart | Flutter (Latest Version)
-* **Tools & Environment:** VS Code | Git & GitHub 
-* **Specialties:** UI Precision, Workflow Automation, Performance Tuning
+## About Me
+
+I'm currently learning Flutter and working on building my skills as a mobile app developer.  
+I practice every day to get better at it.
 
 ---
 
-### 📊 GitHub Status
+## 📫 Contact
+
+**Telegram:** [@saif_vanta](https://t.me/saif_vanta)
