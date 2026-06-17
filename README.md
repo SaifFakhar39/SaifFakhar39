@@ -4,10 +4,10 @@
 
 ## About Me
 
-An app developer using Flutter. I evolve every day to reach the best version of myself.
+**An app developer using the Flutter framework. I evolve every day to reach the best version of myself.**
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
 **Telegram:** [@saif_vanta](https://t.me/saif_vanta)
